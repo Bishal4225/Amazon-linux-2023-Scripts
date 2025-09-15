@@ -1,7 +1,9 @@
 ```markdown
-## 🚀 Amazon Linux 2023 – DevOps Setup  
+
+```## 🚀 Amazon Linux 2023 – DevOps Setup  
 
 This repository provides step-by-step guides and automation scripts to install and configure essential DevOps tools on **Amazon Linux 2023**.
+
 ```
 ---
 
