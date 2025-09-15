@@ -74,8 +74,3 @@ Feel free to fork this repo, improve the scripts, and submit a pull request.
 ## 📜 License
 
 This project is licensed under the **MIT License**.
-
-```
-
-Would you like me to also include a **Quick Start script section** at the bottom of the README, where one script installs Jenkins, Docker, Kubernetes, and AWS CLI together?
-```
