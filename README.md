@@ -1,9 +1,7 @@
-Got it 👍 Here’s a **ready-to-use `README.md` file** you can directly put in your GitHub repo:
-
 ```markdown
 # 🚀 Amazon Linux 2023 – DevOps Setup  
 
-This repository provides step-by-step guides and automation scripts to install and configure essential DevOps tools on **Amazon Linux 2023**.  
+This repository provides step-by-step guides and automation scripts to install and configure essential DevOps tools on **Amazon Linux 2023**.
 
 ---
 
