@@ -1,4 +1,4 @@
-``markdown
+```markdown
 
 ## 🚀 Amazon Linux 2023 – DevOps Setup  
 
