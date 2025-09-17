@@ -44,13 +44,13 @@ The repository includes installation and configuration steps for:
 
 ---
 
-````
+``
 
 ## 🚦 How to Use  
 1. Clone this repo:  
    ```bash
    git clone https://github.com/your-username/amazon-linux-2023-devops.git
-   cd amazon-linux-2023-devops ````
+   cd amazon-linux-2023-devops ```
 
 2. Navigate to the specific tool folder.
 3. Run the installation script or follow the instructions.
