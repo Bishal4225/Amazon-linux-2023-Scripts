@@ -7,7 +7,7 @@ This repository provides step-by-step guides and automation scripts to install a
 ```
 ---
 
-``
+```
 ## 📌 About  
 Amazon Linux 2023 is a modern and secure Linux distribution optimized for AWS workloads.  
 This repo is created to simplify the setup of commonly used DevOps software and services on AL2023.  
