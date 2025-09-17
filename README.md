@@ -56,7 +56,7 @@ The repository includes installation and configuration steps for:
 3. Run the installation script or follow the instructions.
 
 ---
-````
+``
 
 ## 📖 Documentation
 
